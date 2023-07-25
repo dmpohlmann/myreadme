@@ -1,11 +1,6 @@
----
-subtitle: |
-  Personal Readme\
-  (or... a short user guide to working with me)
-title: David M Pohlmann
----
+# The Personal Readme of David M Pohlmann 
 
-# The Personal Readme of David M Pohlmann (or... a short user guide to working with me)
+(or... a short user guide to working with me)
 
 ## Why?
 
